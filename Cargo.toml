@@ -1,0 +1,10 @@
+[package]
+name = "watchful_deer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono="0.4.38"
+bcrypt = "0.15.1"
+rand = "0.8"
+tempfile = "3.12.0"
